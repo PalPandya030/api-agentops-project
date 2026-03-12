@@ -1,0 +1,5 @@
+API,Cost,Latency,Reliability,SLA
+Google Translate,0.02,120,99.9,Premium
+AWS Translate,0.018,140,99.8,Premium
+DeepL,0.015,110,99.7,Standard
+IBM Watson,0.017,150,99.6,Standard
